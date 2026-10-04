@@ -2,7 +2,7 @@
 A SUPER COOL ne555 timer using breathing effect led with a creeper png WHICH WILL LOWK blow you away lol
 
 ## Schematic
-[](schema.jpg)
+<img width="873" height="443" alt="image" src="https://github.com/user-attachments/assets/efe666eb-890d-4e55-9ac5-b3fe5e1afe98" />
 
 ## PCB
 <img width="657" height="406" alt="image" src="https://github.com/user-attachments/assets/a8445d91-d179-498c-b7a9-c0caf875c885" />
