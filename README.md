@@ -6,7 +6,8 @@ A SUPER COOL ne555 timer using breathing effect led with a creeper png WHICH WIL
 
 ## PCB
 <img width="657" height="406" alt="image" src="https://github.com/user-attachments/assets/a8445d91-d179-498c-b7a9-c0caf875c885" />
-[](3d_BACK_pcb.jpg)
+<img width="827" height="505" alt="image" src="https://github.com/user-attachments/assets/43dcfae6-2d4d-4875-8a6c-48a141a9aac9" />
+
 [](3d_FRONT_PCB.jpg)
 
 
