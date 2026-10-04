@@ -27,4 +27,4 @@ Just order the PCB & components, open up the KiCAD file and build it accordingly
 - 2x Battery Cell Holder
 - 2x Capacitor
 
-Made by `@` on slack :D
+Made by `@blackout180` on slack :D
